@@ -1,6 +1,6 @@
 {
   "name": "@hyperttp/profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -17,9 +17,7 @@
     "url": "git+https://github.com/IT-IF-OR/hyperttp-profiler.git"
   },
   "peerDependencies": {
-    "typescript": "^5"
-  },
-  "dependencies": {
+    "typescript": "^5",
     "@hyperttp/core": "^1.0.5"
   }
 }
